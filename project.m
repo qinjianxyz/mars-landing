@@ -2,8 +2,6 @@
 clear all; close all;
 format long; format compact;
 name = 'Jian Qin';
-id = 'A15806136';
-hw_num = 'project';
 
 global R M G m;
 R = 3.3895e6;%(m)
